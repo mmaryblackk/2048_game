@@ -3,7 +3,6 @@
 ## 🎮 Live Preview
 
 [Play the Game](https://mmaryblackk.github.io/2048_game/)
-_Replace with your deployed link if available._
 
 ## 🎨 Design Reference
 
